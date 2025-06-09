@@ -1,4 +1,4 @@
-package com.example.userauthenticationservice.controllers;
+package com.example.userauthenticationservice.dtos;
 
 public class LogInDTO {
 
